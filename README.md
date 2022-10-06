@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: The backend/cloud infrastructure for Unhurd.<br>👯 I’m looking to collaborate on: Any open-source .NET Core/.NET 6 projects.<br>
+🔭 I’m currently working on: Leading the backend/cloud infrastructure and development for Unhurd.<br>👯 I’m looking to collaborate on: Any open-source .NET Core/.NET 6 projects.<br>
 
 
 ## 🌐 Socials:
